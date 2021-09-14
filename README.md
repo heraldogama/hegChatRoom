@@ -1,6 +1,6 @@
 # hegChatRoom
 
-**Content:**
+**Conteúdo:**
 - [O que é o hegChatRoom?](#O-que-é-o-hegChatRoom)
 - [Funcionalidades](#Funcionalidades)
 - [Testes Unitários](#MSTest/NUnit)
